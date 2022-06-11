@@ -1,0 +1,8 @@
+#success_message{ display: none;}
+
+body{
+    width: 100%;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("bg.gif");
+} 
